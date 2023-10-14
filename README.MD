@@ -1,11 +1,11 @@
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+<img height="300px" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
 ```yaml
-name: Paulo Felipe Martins
+name: [Paulo Felipe Martins]
 located_in: [Paranaguá-PR]
 from: [Brazil]
-Currently Working on: DevOps
-job: Simbiose Ventures
+Currently Working on: [DevOps]
+job: [Simbiose Ventures]
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies"]
 currently_learning: ["DevSecOps best practices", 
 Personal Bots with Python", "Custom API building"]

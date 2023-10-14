@@ -1,4 +1,4 @@
-<img height="300px" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+<img height="300px" align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
 ```yaml
 name: [Paulo Felipe Martins]

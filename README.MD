@@ -1,8 +1,4 @@
-<p align="center">
-
- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
-</p>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
 ```yaml
 name: Paulo Felipe Martins
@@ -13,7 +9,7 @@ job: Simbiose Ventures
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies"]
 currently_learning: ["DevSecOps best practices", 
 Personal Bots with Python", "Custom API building"]
-ask_me_about: ["DevOps Culture" , "Linux", "Algorithm Challenges", "Python", "Java", "Node.js", "TypeScript"]
+ask_me_about: ["DevOps Culture", "Linux", "Algorithm Challenges", "Python", "Java", "Node.js", "TypeScript"]
 hobbies: ["Music", "Competitive Gaming"]
 ```
 <a href="https://www.linkedin.com/in/paulof-devops/">

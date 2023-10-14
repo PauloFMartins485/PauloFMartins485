@@ -6,8 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">
-
 ```yaml
 name: Paulo Felipe Martins
 located_in: [Paranaguá-PR]
@@ -20,8 +18,6 @@ Personal Bots with Python", "Custom API building"]
 ask_me_about: ["DevOps" , "Linux", "Algorithm Challenges", "Python", "Java", "Node.js", "TypeScript"]
 hobbies: ["Music", "Competitive Gaming"]
 ```
-</p>
-
 <a href="https://www.linkedin.com/in/paulof-devops/">
   <img alt="AliCem's LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>

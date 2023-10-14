@@ -65,7 +65,10 @@ hobbies: ["Music", "Competitive Gaming"]
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Paulo Martins&color=e57f2a&style=for-the-badge&logo=GitHub">
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=PauloFMartins485&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloFMartins485&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFMartins485&layout=compact&langs_count=7&theme=darcula"/>
+</div>
 
 ---
 <div align=center>

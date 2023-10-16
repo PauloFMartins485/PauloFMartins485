@@ -1,16 +1,15 @@
 <img height="280px" align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
 ```yaml
-name: [Paulo Felipe Martins]
-located_in: [Paranaguá-PR]
-from: [Brazil]
-Currently Working on: [DevOps]
-job: [Simbiose Ventures]
+name: ["Paulo Felipe Martins"]
+located_in: ["Paranaguá-PR"]
+from: ["Brazil"]
+Currently Working on: ["DevOps"]
+job: ["Simbiose Ventures"]
 technical_background: ["Web Automation", "Application Automation", "Web Technologies", "Cloud Technologies"]
-currently_learning: ["DevSecOps best practices", 
-Personal Bots with Python", "Custom API building"]
+currently_learning: ["DevSecOps best practices", "Personal Bots with Python", "Custom API building"]
 ask_me_about: ["DevOps Culture", "Linux", "Algorithm Challenges", "Python", "Java", "Node.js", "TypeScript"]
-hobbies: ["Music", "Competitive Gaming"]
+hobbies: ["Music", "Competitive Gaming", "RPG"]
 ```
 <a href="https://www.linkedin.com/in/paulof-devops/">
   <img alt="AliCem's LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />

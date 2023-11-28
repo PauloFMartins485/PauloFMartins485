@@ -1,4 +1,4 @@
-<img height="280px" align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
+<img height="280px" align="center" src="https://scontent.fcwb6-1.fna.fbcdn.net/v/t39.30808-6/406209281_7389942987717721_8920383678846067501_n.jpg?stp=dst-jpg_p240x240&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEoYcxxrWjeBwT_WQb3j65yzuupJaJNER3O66klok0RHcTLjMCR0RFCP2LGJSRFJ2vHHf2aETHL8HtjEcThdL2y&_nc_ohc=LeNPQddLm0sAX-5IDpJ&_nc_ht=scontent.fcwb6-1.fna&oh=00_AfCMApMrSK4MdcHYlHXOQcrMnZ1kZbHTGnPveNZIK62vyw&oe=656B700F"/>
 
 ```yaml
 name: ["Paulo Felipe Martins"]
@@ -57,10 +57,3 @@ hobbies: ["Music", "Competitive Gaming", "RPG"]
 <br>
 
 ---
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Paulo Martins&color=63a4cb&style=for-the-badge&logo=GitHub">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PauloFMartins485&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
-    
-
-

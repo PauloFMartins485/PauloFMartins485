@@ -1,4 +1,4 @@
-<img height="280px" align="center" src="https://scontent.fcwb6-1.fna.fbcdn.net/v/t39.30808-6/406209281_7389942987717721_8920383678846067501_n.jpg?stp=dst-jpg_p240x240&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEoYcxxrWjeBwT_WQb3j65yzuupJaJNER3O66klok0RHcTLjMCR0RFCP2LGJSRFJ2vHHf2aETHL8HtjEcThdL2y&_nc_ohc=LeNPQddLm0sAX-5IDpJ&_nc_ht=scontent.fcwb6-1.fna&oh=00_AfCMApMrSK4MdcHYlHXOQcrMnZ1kZbHTGnPveNZIK62vyw&oe=656B700F"/>
+<img height="280px" align="center" src="https://scontent.fcwb6-1.fna.fbcdn.net/v/t39.30808-6/406209281_7389942987717721_8920383678846067501_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEoYcxxrWjeBwT_WQb3j65yzuupJaJNER3O66klok0RHcTLjMCR0RFCP2LGJSRFJ2vHHf2aETHL8HtjEcThdL2y&_nc_ohc=dCNo56MNumkAX8GaI7L&_nc_ht=scontent.fcwb6-1.fna&oh=00_AfCsQCXaOLDi5p_f1kydqZAUjWfAJOQY69QAYGNMZSG74g&oe=657F368F"/>
 
 ```yaml
 name: ["Paulo Felipe Martins"]
